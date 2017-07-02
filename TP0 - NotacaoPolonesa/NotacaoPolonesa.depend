@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1492817946 source:c:\users\deiziane\documents\ufmg\aeds 3\notacaopolonesa\main.c
+	<stdio.h>
+	<string.h>
+	"pilha.h"
+	"tree.h"
+
+1492800651 c:\users\deiziane\documents\ufmg\aeds 3\notacaopolonesa\pilha.h
+	<stdbool.h>
+
+1492822156 source:c:\users\deiziane\documents\ufmg\aeds 3\notacaopolonesa\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pilha.h"
+
+1492801568 c:\users\deiziane\documents\ufmg\aeds 3\notacaopolonesa\tree.h
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+
+1492822075 source:c:\users\deiziane\documents\ufmg\aeds 3\notacaopolonesa\tree.c
+	<stdio.h>
+	<stdlib.h>
+	"tree.h"
+
