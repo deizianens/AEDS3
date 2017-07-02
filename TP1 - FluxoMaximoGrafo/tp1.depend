@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1495338620 source:c:\users\deizi\documents\ufmg\aeds 3\tp1\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	"grafo.h"
+
+1495303350 c:\users\deizi\documents\ufmg\aeds 3\tp1\grafo.h
+
+1495448287 source:c:\users\deizi\documents\ufmg\aeds 3\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fordfulkerson.h"
+
+1495417308 source:c:\users\deizi\documents\ufmg\aeds 3\tp1\fordfulkerson.c
+	<stdio.h>
+	<stdlib.h>
+
+1495381837 c:\users\deizi\documents\ufmg\aeds 3\tp1\fordfulkerson.h
+
