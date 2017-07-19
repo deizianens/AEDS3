@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1499552548 source:c:\users\deizi\documents\ufmg\aeds 3\legadodacopa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	"bandeira.h"
+	"dinamica.h"
+	"greedy.h"
+	"forcaBruta.h"
+	<time.h>
+
+1499117262 c:\users\deizi\documents\ufmg\aeds 3\legadodacopa\bandeira.h
+	<stdio.h>
+
+1499137772 c:\users\deizi\documents\ufmg\aeds 3\legadodacopa\forcabruta.h
+
+1499267868 source:c:\users\deizi\documents\ufmg\aeds 3\legadodacopa\forcabruta.c
+	<stdio.h>
+	<stdlib.h>
+	"bandeira.h"
+	"forcaBruta.h"
+
+1499099274 source:c:\users\deizi\documents\ufmg\aeds 3\legadodacopa\dinamica.c
+	<stdio.h>
+	<stdlib.h>
+	"bandeira.h"
+	"dinamica.h"
+
+1499099274 c:\users\deizi\documents\ufmg\aeds 3\legadodacopa\dinamica.h
+
+1499117152 source:c:\users\deizi\documents\ufmg\aeds 3\legadodacopa\greedy.c
+	<stdio.h>
+	<stdlib.h>
+	"bandeira.h"
+	"greedy.h"
+
+1499117165 c:\users\deizi\documents\ufmg\aeds 3\legadodacopa\greedy.h
+
